@@ -10,19 +10,15 @@ Torna allo spawn
 
 #### /warp
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (6).png>)
 
 #### /guida
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="434"><figcaption><p>Visualizza la guida dentro una GUI (coming soon)</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (5).png" alt="" width="434"><figcaption><p>Visualizza la guida dentro una GUI (coming soon)</p></figcaption></figure></div>
 
 #### /kit
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (7).png>)
 
 #### /sellgui oppure /vendi
 
